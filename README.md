@@ -1,4 +1,4 @@
-# Learning frontend developing day 1
+# business showcase website
 
 demo: https://xiaoyu-li.github.io/simple-business-website/
 
